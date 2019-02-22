@@ -1,2 +1,2 @@
-# Appium-Galen-Emulator-Device-Dump
-DUMP Emulator Device
+# Real-Mobile-Appium-JUnit
+Test Real Mobile Device Junit
